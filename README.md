@@ -2,6 +2,7 @@
 
 This is the code for the paper REFORM: Error-Aware Few-Shot Knowledge Graph Completion, CIKM 2021. [PDF file](https://songw-sw.github.io/REFORM.pdf)  
 The citation is currently unavailable and we will update this page when the paper is finally published.
+![Alt text](https://github.com/chenyufeng1991/NewsClient/raw/master/Screenshots/2.png)
 
 To run the code, type the following commands:  
 
