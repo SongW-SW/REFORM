@@ -5,7 +5,7 @@ The citation is currently unavailable and we will update this page when the pape
 ![Alt text](./Framework.png)
 
 These are the statistics of the datasets:
-![Alt text](./Dataset.png)
+![Alt text](./Dataset.png =100)
 
 To run the code, type the following commands:  
 
