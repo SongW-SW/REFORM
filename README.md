@@ -4,6 +4,9 @@ This is the code for the paper REFORM: Error-Aware Few-Shot Knowledge Graph Comp
 The citation is currently unavailable and we will update this page when the paper is finally published.
 ![Alt text](./Framework.png)
 
+These are the statistics of the datasets:
+![Alt text](./Dataset.png)
+
 To run the code, type the following commands:  
 
 tar zxvf FB_data.tar.gz  
