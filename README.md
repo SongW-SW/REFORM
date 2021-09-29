@@ -5,6 +5,9 @@ The citation is currently unavailable and we will update this page when the pape
 ![Alt text](./Framework.png)
 
 These are the statistics of the datasets:
+<div align="center">
+	<img src="./Dataset.png" alt="Editor" width="500">
+</div>
 ![Alt text](./Dataset.png)
 
 To run the code, type the following commands:  
