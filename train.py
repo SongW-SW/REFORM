@@ -161,6 +161,7 @@ class Trainer(object):
         self.num_rels = len(self.rel2id.keys())
 
         logging.info('BUILDING CONNECTION MATRIX')
+        degrees=self.build_connection(max_=self.max_neighbor)
 
 
         logging.info('LOADING CANDIDATES ENTITIES')
